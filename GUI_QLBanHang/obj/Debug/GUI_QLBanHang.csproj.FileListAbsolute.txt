@@ -1,0 +1,168 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmHoaDon.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\QLBanHang1.mdf
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\TemplateProject1_QLBanHang\bin\Debug\QLBanHang1_log.ldf
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\Interop.AcroPDFLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\Interop.FOXITPHANTOMLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\AxInterop.AcroPDFLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\AxInterop.FOXITPHANTOMLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\Interop.AcroPDFLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\Interop.FOXITPHANTOMLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\AxInterop.AcroPDFLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\AxInterop.FOXITPHANTOMLib.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Form1.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmHoaDon.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\QLBanHang1.mdf
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\QLBanHang1_log.ldf
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csprojAssemblyReference.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\Interop.AcroPDFLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\Interop.FOXITPHANTOMLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\AxInterop.AcroPDFLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\AxInterop.FOXITPHANTOMLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\QLBanHang1.mdf
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\QLBanHang1_log.ldf
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\Interop.AcroPDFLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\Interop.FOXITPHANTOMLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\AxInterop.AcroPDFLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\bin\Debug\AxInterop.FOXITPHANTOMLib.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+W:\Users\Thepv\Desktop\C#TemplateProject\TemplateProject1_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CopyComplete
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\QLBanHang1.mdf
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\QLBanHang1_log.ldf
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBa.12D288D4.Up2Date
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\QLBanHang1.mdf
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\QLBanHang1_log.ldf
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\GUI_QLBanHang\obj\Debug\GUI_QLBa.12D288D4.Up2Date

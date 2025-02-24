@@ -1,0 +1,45 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csprojAssemblyReference.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBa.95D121C7.Up2Date
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBa.95D121C7.Up2Date
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb

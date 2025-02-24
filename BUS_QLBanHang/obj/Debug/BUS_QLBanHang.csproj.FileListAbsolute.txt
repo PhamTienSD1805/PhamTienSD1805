@@ -1,0 +1,55 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csprojAssemblyReference.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csprojAssemblyReference.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+W:\Users\Thepv\Desktop\C#TemplateProject\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBa.98778C73.Up2Date
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBa.98778C73.Up2Date
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb

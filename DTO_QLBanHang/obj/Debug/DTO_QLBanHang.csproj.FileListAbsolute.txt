@@ -1,0 +1,22 @@
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject1\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+A:\E#(Data - NTFS 1)\aptech\fpoly\SP2017\DuAnMauC#\C#TemplateProject\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+D:\FPT_PTCD\IT_Courses\SOF2051_Du an mau(UDPM.NET)\TaiNguyen\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
