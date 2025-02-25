@@ -47,6 +47,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="UnitTest1.cs" />
@@ -56,6 +57,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BUS_QLBanHang\BUS_QLBanHang.csproj">
+      <Project>{d19136a2-8b74-4b9b-8286-ed504baeecf7}</Project>
+      <Name>BUS_QLBanHang</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DAL_QLBanHang\DAL_QLBanHang.csproj">
       <Project>{F2F5CF57-B3E4-4547-AF57-8CFE2B4F29FC}</Project>
       <Name>DAL_QLBanHang</Name>
@@ -63,6 +68,10 @@
     <ProjectReference Include="..\DTO_QLBanHang\DTO_QLBanHang.csproj">
       <Project>{0555241E-689F-41CA-BEB0-1B35921637FC}</Project>
       <Name>DTO_QLBanHang</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GUI_QLBanHang\GUI_QLBanHang.csproj">
+      <Project>{d98bc52a-19dd-498a-a70c-141916f5040f}</Project>
+      <Name>GUI_QLBanHang</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

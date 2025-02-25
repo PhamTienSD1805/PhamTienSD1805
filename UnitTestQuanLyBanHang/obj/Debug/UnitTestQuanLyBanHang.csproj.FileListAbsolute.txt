@@ -17,3 +17,10 @@ C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\obj\Debug\
 C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\obj\Debug\UnitTest.1813318B.Up2Date
 C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\obj\Debug\UnitTestQuanLyBanHang.dll
 C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\obj\Debug\UnitTestQuanLyBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\QLBanHang1.mdf
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\QLBanHang1_log.ldf
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\BUS_QLBanHang.dll
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Downloads\SOF2051\ProjectSources\UnitTestQuanLyBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
